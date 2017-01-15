@@ -1,0 +1,2 @@
+# FDAccelerometer
+对加速计的一般用法进行总结，包括使用设备的UIDevice进行判断设备的摇晃情况，UIAccelerometer，CoreMotion,最后还有获取计步器的步数的使用
